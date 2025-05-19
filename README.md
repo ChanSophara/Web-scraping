@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-This project scrapes data from [insert website] to collect [brief info about data]. It includes:
+This project scrapes data from Cambodia stock price (CSX) to collect Company stock price. It includes:
 
 - 🌐 URL access handling
 - 🔍 Data parsing
@@ -37,12 +37,6 @@ This project scrapes data from [insert website] to collect [brief info about dat
 
 ---
 
-## 📁 Folder Structure
-Project_5_real/
-│
-├── Project_5_real.ipynb # Main Jupyter notebook
-├── requirements.txt # (Optional) dependencies
-└── README.md # This file
 ## 📈 Sample Output
 
 | Title | Price | Rating |
